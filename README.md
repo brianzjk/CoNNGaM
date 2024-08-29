@@ -2,7 +2,7 @@ In this research, I created CoNNGaM (Convolutional Neural Networks for Galaxy Me
 
 I presented my findings as 1 of 12 selected oral presenters at the 2024 North Carolina Junior Science and Humanities Symposium. 
 
-The content of the files in this repository are _really_ unorganized. 
+The content of the files in this repository are _really_ unorganized, and the code might be broken from testing things and not fixing it. 
 
 # Abstract
 With the increase in astronomical data from large-scale sky surveys, an efficient method to process image data from telescopes is needed.
