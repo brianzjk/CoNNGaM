@@ -2,6 +2,8 @@ In this research, I created CoNNGaM (Convolutional Neural Networks for Galaxy Me
 
 I presented my findings as 1 of 12 selected oral presenters at the 2024 North Carolina Junior Science and Humanities Symposium. 
 
+The content of the files in this repository are _really_ unorganized. 
+
 # Abstract
 With the increase in astronomical data from large-scale sky surveys, an efficient method to process image data from telescopes is needed.
 In particular, analyzing the gas-phase metallicity of galaxies ($12+\log\left([O]/[H]\right)$) is important, as it is an important indicator of galactic evolution and star formation.
